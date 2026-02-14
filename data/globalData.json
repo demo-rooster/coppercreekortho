@@ -1,80 +1,57 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Copper Creek Orthodontics",
+  "domain": "coppercreekortho.com",
+  "email": "info@coppercreekortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(281) 463-6757",
+    "href": "tel:+12814636757",
+    "aria": "2 8 1, 4 6 3, 6 7 5 7"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "9955 Barker Cypress Rd",
+        "suite": "Suite 225",
+        "city_state": "Cypress, TX 77433",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(281) 463-6757",
+        "href": "tel:+12814636757"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@coppercreekortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "8:00am - 5:30pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tues",
+          "time": "8:00am - 5:30pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00am - 5:30pm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thurs",
+          "time": "8:00am - 5:30pm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "By appointment only"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=9955+Barker+Cypress+Rd+Suite+225+Cypress+TX+77433",
         "label": "Get Directions"
       },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
-        "label": "Get Directions"
-      },
-      "special_note": ""
+      "special_note": "Closed for lunch 12:00pm – 1:30pm"
     }
   ],
   "typography": [
@@ -95,27 +72,27 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "9955 Barker Cypress Rd, Suite 225, Cypress, TX 77433",
+        "href": "https://www.google.com/maps/search/?api=1&query=9955+Barker+Cypress+Rd+Suite+225+Cypress+TX+77433",
+        "label": "View 9955 Barker Cypress Rd, Suite 225, Cypress, TX 77433 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(281) 463-6757",
+        "href": "tel:+12814636757",
+        "label": "Call 2 8 1. 4 6 3. 6 7 5 7.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID‑19 Update",
+      "text": "Learn how we keep patients safe during visits and what to expect at your appointment.",
+      "mobile_text": "COVID‑19 Update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID‑19 Update",
+        "text": "We continue to follow recommended infection control procedures to keep patients and our team safe. If you have questions about appointment procedures or screening, please call or request an appointment online."
       }
     }
   },
@@ -129,10 +106,10 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
-          "hash": "#form",
+          "path": "/office/appointment-request/",
+          "hash": "",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,7 +127,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/CopperCreekOrtho",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/coppercreekortho/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.tiktok.com/@coppercreekortho",
+        "icon": "tiktok"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCPt9pzGmzzh2yzIxtz_hgQQ",
         "icon": "youtube"
       }
     ],
@@ -158,12 +147,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Copper Creek Orthodontics",
+    "text": "We help patients of all ages achieve healthy, confident smiles. Request an appointment online or call our office and our friendly team will help you get started.",
     "image": {
-      "src": "",
+      "src": "https://coppercreekortho.com/wp-content/uploads/copper-creek-2025-color.png",
       "webp": "",
-      "alt": "",
+      "alt": "Copper Creek Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
